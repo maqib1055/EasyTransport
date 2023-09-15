@@ -1,0 +1,20 @@
+
+
+**Database Name: OnlineCarBooking**
+
+
+
+
+
+**Recommended PHP Version 7.2 + **
+
+**Admin Login Details**
+
+Email	: admin@gmail.com
+Password: admin123
+
+
+**Clint Login info**
+
+Email    : owais@gmail.com
+Password :owais123
